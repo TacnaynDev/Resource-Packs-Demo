@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "custom/dwarven/mithril_edge_rough",
+        "all": "custom/dwarven/mithril_edge_rough"
+    }
+}

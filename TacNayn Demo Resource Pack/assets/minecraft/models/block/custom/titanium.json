@@ -1,0 +1,7 @@
+{
+    "parent":"block/cube_all",
+    "textures": {
+        "particle":"custom/dwarven/titanium",
+        "all":"custom/dwarven/titanium"
+    }
+}
