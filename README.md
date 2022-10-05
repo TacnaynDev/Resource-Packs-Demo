@@ -11,12 +11,15 @@ Repo contains a main demo resource pack with a test world, and a separate resour
 
 
 ## Screenshots
-[Top-Down Shader Screenshots](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Info/topdown-screenshots.md)
 
-[Demo Pack Screenshots](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Info/world-screenshots.md)
+[
+    ![Top down view of sky block hub with shader](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/topdown1.jpg?raw=true)
+    Top-Down Shader Screenshots
+]
+(https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Info/topdown-screenshots.md)
 
-*Click links for more screenshots*
-
-![Top down view of sky block hub with shader](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/topdown1.jpg?raw=true)
-
-![Custom GUI](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/1.png?raw=true)
+[
+    ![Custom GUI](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/1.png?raw=true)    
+    Demo Pack Screenshots
+]
+(https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Info/world-screenshots.md)
