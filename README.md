@@ -3,11 +3,11 @@ A small repository showing off my skills with MC resource packs.
 
 Repo contains a main demo resource pack with a test world, and a separate resource pack with a core shader.
 ## Download Links
-[Top-Down View Core Shader](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Downloads/Topdown.zip?raw=true)
+[Top-Down View Core Shader](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Info/Downloads/Topdown.zip?raw=true)
 
-[Demo Pack](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Downloads/Demo%20Resource%20Pack.zip?raw=true)
+[Demo Pack](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Info/Downloads/Demo%20Resource%20Pack.zip?raw=true)
 
-[Demo World](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Downloads/Demo%20World.zip?raw=true)
+[Demo World](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Info/Downloads/Demo%20World.zip?raw=true)
 
 
 ## Screenshots
