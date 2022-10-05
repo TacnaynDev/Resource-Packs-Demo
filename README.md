@@ -1,32 +1,15 @@
-# Demo-Resource-Pack
-TacNayn's demo resource pack uploaded to a repository for easier viewing  
-Repo also contains a demo world file with the resource pack installed.
+# TacNayn Demo Repository
+A small repository showing off my skills with MC resource packs.
 
-Here are images of everything demonstrated in the world:  
-![Custom GUI](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/1.png?raw=true)  
-Mockup GUI of a skyblock minion using custom fonts
-<br/>
-<br/>
+Repo contains a main demo resource pack with a test world, and a separate resource pack with a core shader.
+## Download Links
+[Top-Down View Core Shader](https://github.com/IanK9988/Demo-Resource-Pack/tree/main/TopDown%20Shader)
+[Demo Pack](https://github.com/IanK9988/Demo-Resource-Pack/tree/main/TacNayn%20Demo%20Resource%20Pack)
+[Demo World](https://github.com/IanK9988/Demo-Resource-Pack/tree/main/Pack%20Demo%20World)
+## Screenshots
+[Top-Down Shader Screenshots](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Info/topdown-screenshots.md)
+[Demo Pack Screenshots](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/Info/world-screenshots.md)
+*Click links for more screenshots*
 
-![Flashlight shader](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/2.png?raw=true)  
-Example of a shader
-<br/>
-<br/>
-
-![Jerry NPC speaking with emojis](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/3.png?raw=true)  
-Mockup for an NPC chat system using custom unicode, as well as custom emojis in chat
-<br/>
-<br/>
-
-![HUD with mana bar](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/4.png?raw=true)  
-Example of a custom bar being added to the UI
-<br/>
-<br/>
-
-![Mithril ore textures](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/5.png?raw=true)  
-Custom block textures using noteblock blockstate models
-<br/>
-<br/>
-
-![Escape menu with Hypixel logo](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/6.png?raw=true)  
-Modified language files to add custom images to menus
+![Top down view of sky block hub with shader](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/topdown1.jpg?raw=true)
+![Custom GUI](https://github.com/IanK9988/Demo-Resource-Pack/blob/main/img/1.png?raw=true)
