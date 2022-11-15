@@ -1,7 +1,7 @@
 # TacNayn Demo Repository
 A showcase repository for displaying my skills with MC resource packs.
 
-Repo contains a main demo resource pack with a test world, and a separate resource pack with a core shader. 
+Repo contains a bunch of stuff I've made. It started as a small demo repository and ended up as more of a dumping grounds for my smaller projects. Feel free to look around and use my stuff for inspiration!
 
 ## Stuff to Check Out
 **Core Shader Template**:  
