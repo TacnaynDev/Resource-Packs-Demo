@@ -10,6 +10,9 @@ https://github.com/TacnaynDev/Core-shader-template
 **General Resource Pack Screenshots**:  
 https://github.com/TacnaynDev/Demo-Resource-Pack/blob/main/Info/world-screenshots.md  
   
+**Rainbow Lines Pack**:
+https://github.com/TacnaynDev/Resource-Packs-Demo/tree/main/Rainbow%20Lines
+  
 **Top-down Shader Screenshots**:  
 https://github.com/TacnaynDev/Demo-Resource-Pack/blob/main/Info/topdown-screenshots.md  
   
