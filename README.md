@@ -12,6 +12,9 @@ https://github.com/TacnaynDev/Demo-Resource-Pack/blob/main/Info/world-screenshot
   
 **Rainbow Lines Pack**:  
 https://github.com/TacnaynDev/Resource-Packs-Demo/tree/main/Rainbow%20Lines
+
+**Rainbow Tooltips Pack**:  
+https://github.com/TacnaynDev/Resource-Packs-Demo/tree/main/Rainbow%20Tooltips
   
 **Top-down Shader Screenshots**:  
 https://github.com/TacnaynDev/Demo-Resource-Pack/blob/main/Info/topdown-screenshots.md  
