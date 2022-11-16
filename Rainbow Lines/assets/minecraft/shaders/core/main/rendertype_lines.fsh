@@ -2,7 +2,7 @@
 
 #moj_import <fog.glsl>
 #moj_import <color_util.glsl>
-#moj_import <config.glsl>
+#moj_import <config_rainbow_lines.glsl>
 
 uniform vec4 ColorModulator;
 uniform float FogStart;
