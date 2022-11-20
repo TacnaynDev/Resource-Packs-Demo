@@ -16,7 +16,7 @@ Custom mana bar
 <br/>
 
 ![Mithril ore textures](https://github.com/TacnaynDev/Demo-Resource-Pack/blob/main/img/5.png?raw=true)  
-Custom block textures using noteblock blockstate models
+Custom block textures using blockstate models. (Textures by nacrt and MotorGorilla)
 <br/>
 
 ![Escape menu with Hypixel logo](https://github.com/TacnaynDev/Demo-Resource-Pack/blob/main/img/6.png?raw=true)  
