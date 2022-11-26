@@ -27,6 +27,6 @@ https://github.com/TacnaynDev/Demo-Resource-Pack/blob/main/Info/world-screenshot
 [Demo World](https://github.com/TacnaynDev/Demo-Resource-Pack/blob/main/Info/Downloads/Demo%20World.zip?raw=true)  
   
 ## Screenshots  
-![Delivery Man with custom GUI](https://cdn.discordapp.com/attachments/979925547968770088/1041930446394634301/javaw_aQdhSfPqHS.mp4)
+![Delivery Man with custom GUI](https://raw.githubusercontent.com/TacnaynDev/Resource-Packs-Demo/main/img/delivery_man.gif)
 ![Top down view of sky block hub with shader](https://github.com/TacnaynDev/Demo-Resource-Pack/blob/main/img/topdown1.jpg?raw=true)  
 ![Custom GUI](https://github.com/TacnaynDev/Demo-Resource-Pack/blob/main/img/1.png?raw=true)
