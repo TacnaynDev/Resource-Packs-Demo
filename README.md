@@ -3,7 +3,7 @@ A showcase repository for displaying my skills with MC resource packs.
   
 Repo contains a bunch of stuff I've made. It started as a small demo repository and ended up as more of a dumping grounds for my smaller projects. Feel free to look around and use my stuff for inspiration!  
 
-*I am not affiliated with the Hypixel Network, and anything I make that includes a feature of the server is unofficial.
+*I am not affiliated with the Hypixel Network, and anything I make that includes a feature of the server is unofficial.*
   
 ## Stuff to Check Out  
 **Core Shader Template**:  
