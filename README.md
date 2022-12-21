@@ -1,5 +1,5 @@
-# TacNayn Demo Repository  
-A showcase repository for displaying my skills with MC resource packs.  
+# TacNayn Demo Repository   2.0
+The sequel to the showcase repository for displaying my skills with MC resource packs.  
   
 Repo contains a bunch of stuff I've made. It started as a small demo repository and ended up as more of a dumping grounds for my smaller projects. Feel free to look around and use my stuff for inspiration!  
 
